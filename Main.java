@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        ystem.out.println("Hola, soy <tu nombre> desde la rama de mejoras!")
+        System.out.println("Hola, soy <tu nombre> desde la rama de mejoras!")
+        System.out.println("Hola soy Ithan Rios desde la versión principal!");
+        System.out.println("¡Que tengas un buen día!");
     }
 }
